@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../tableau de bord"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "../Projet 1 site web NAGAD"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "tableau de bord"
+  }
+}
